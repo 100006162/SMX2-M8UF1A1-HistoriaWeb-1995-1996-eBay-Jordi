@@ -9,7 +9,7 @@ Desde 2002 hasta 2015 eBay fue propietario de PayPal.
 **2. Ubicación eBay:**  
 La sede central de eBay se encuentra en San José, California. Después tenemos el área de operación que en este caso es mundial, ya que se puede acceder desde cualquier parte del mundo.  
 
-![eBay](https://github.com/100006162/SMX2-M8UF1A1-HistoriaWeb-1995-1996-eBay-Jordi/blob/main/ebay.jpg eBay)
+![Amazon](https://github.com/100006162/SMX2-M8UF1A1-HistoriaWeb-1995-1996-eBay-Jordi/blob/main/ebay.jpg "eBay")
 
 **Lugares de interes de información:**  
 1- [📦 ¿Qué Pasó con la Empresa que Revolucionó las Ventas por Internet? | Caso Ebay](https://www.youtube.com/watch?v=Uki_IIMxiMg)  
